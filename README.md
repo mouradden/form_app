@@ -27,10 +27,9 @@ You can start developing by editing the files inside the **app** directory. This
 
 ## Demo
 
-<video controls width="600">
+<video controls style="width: 80%; max-width: 300px; height: 500px;">
   <source src="./assets/deploy/app-job.gif" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-----
-![App Demo](assets/deploy/app-job.gif)
+
