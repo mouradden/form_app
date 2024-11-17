@@ -31,5 +31,4 @@ You can start developing by editing the files inside the **app** directory. This
 ![App Demo](assets/deploy/app-job.gif)
 
 
-<img src="assets/deploy/app-job.gif" alt="App Demo" width="700" height="1100">
 
