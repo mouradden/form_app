@@ -28,4 +28,4 @@ You can start developing by editing the files inside the **app** directory. This
 ## Demo
 
 
-[!App Demo]["assets/deploy/app-job.gif"]
+![App Demo](assets/deploy/app-job.gif)
