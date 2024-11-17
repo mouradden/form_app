@@ -33,3 +33,4 @@ You can start developing by editing the files inside the **app** directory. This
 </video>
 
 
+![App Demo](assets/deploy/app-job.gif)
