@@ -28,6 +28,7 @@ You can start developing by editing the files inside the **app** directory. This
 ## Demo
 
 <video controls width="600">
-  <source src="assets/deploy/app-job.movv" type="video/quicktime">
+  <source src="./assets/deploy/app-job.mp4" type="video/quicktime">
   Your browser does not support the video tag.
 </video>
+[Download app-job.mov](assets/deploy/app-job.movv)
