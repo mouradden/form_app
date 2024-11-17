@@ -25,3 +25,9 @@ In the output, you'll find options to open the app in a
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
+## Demo
+
+<video controls width="600">
+  <source src="app-job.mov" type="video/quicktime">
+  Your browser does not support the video tag.
+</video>
