@@ -32,5 +32,5 @@ You can start developing by editing the files inside the **app** directory. This
   Your browser does not support the video tag.
 </video>
 
-
+----
 ![App Demo](assets/deploy/app-job.gif)
